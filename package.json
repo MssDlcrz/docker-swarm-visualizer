@@ -52,9 +52,9 @@
     "lodash": "^4.17.10",
     "normalize.css": "^3.0.3",
     "request": "^2.65.0",
-    "superagent": "3.7.0",
-    "svg-inline-loader": "^0.3.0",
-    "ws":"1.1.0",
+    "superagent": "3.8.3",
+    "svg-inline-loader": "^0.8.2",
+    "ws":"1.1.5",
     "express-ws":"2.0.0"
 
   }
